@@ -1,0 +1,15 @@
+* {
+    background-color: linen;
+    font: "Verdana", sans-serif;
+}
+
+header {
+    display: inline;
+}
+
+nav {
+    background-color: darkgreen;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
